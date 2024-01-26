@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://prathamdby.github.io/sitemap.xml
+Sitemap: https://prathamdby.me/sitemap.xml
